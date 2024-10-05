@@ -9,7 +9,7 @@ Criar um ecossistema de microserviços para gerenciar a inserção e manutençã
 ### [Gateway](https://github.com/brunorosselli/fiap-api-gateway) 
 ### [Clientes](https://github.com/brunorosselli/fiap-ms-gerenciamento-logistica) 
 ### Produtos https://github.com/postechfiapgrupo04/ms-gerenciamento-produtos
-### Logistica https://github.com/postechfiapgrupo04/ms-gerenciamento-logistica
+### [Logistica](https://github.com/brunorosselli/fiap-ms-gerenciamento-logistica) 
 ### [Pedidos](https://github.com/brunorosselli/fiap-ms-gerenciamento-pedidos) 
 
 ## 💻 Pré-requisitos para todos os projetos
